@@ -3,6 +3,8 @@ Code is law.
 There's law we can ignore according to our best judgement. (e.g. fair use)
 And there's law we can't (e.g. upload filters implemented in software. even if the contents they filter out are unrightfully filtered out)
 
+* interactivity?
+* wenig kram auf den folien!
 
 * intro: who's lessig
   * read WP article
@@ -222,6 +224,93 @@ make copies were broadly available."
 "“mixed tape,” and some was simply for the purpose of avoiding the need to buy
 the original recording. After many years of debate, Congress decided not to leg-
 islate a ban on home taping." (p.173)
+
+"Against the background of these gradual changes in the law, along with the
+practical norm that, in the main, the law didn’t reach consumers, the changes of
+digital technology were a considerable shock. First, from the perspective of tech-
+nology, digital technologies, unlike their analog sister, enabled perfect copies of
+an original work. The return from copying was therefore greater. Second, also
+from the perspective of technology, the digital technology of the Internet enabled
+content to be freely (and effectively anonymously) distributed across the Internet.
+The availability of copies was therefore greater. Third, from the perspective of
+norms, consumers who had internalized the norm that they could do with “their
+content” whatever they wanted used these new digital tools to make “their con-
+tent” available widely on the Internet."
+"there was little the law could do to stop this
+massive “sharing” of content. Thus fifth, and from the perspective of copyright
+holders, digital technologies and the Internet were the perfect storm for their
+business model: If they made money by controlling the distribution of “copies”
+of copyrighted content, you could well understand why they viewed the Internet
+as a grave threat.
+Very quickly, and quite early on, the content industry responded to this
+threat. Their first line of defense was a more aggressive regime of regulation."
+
+"The initial response to this push was a White Paper produced by the Com-
+merce Department in 1995. The paper outlined a series of modifications
+aimed, it said, at restoring “balance” in intellectual property law."
+"first part was a bust. 8 The report no more “restated” existing law than Soviet
+historians “retold” stories of Stalin’s administration. The restatement had a
+tilt, very definitely in the direction of increased intellectual property protec-
+tion, but it pretended that its tilt was the natural lay of the land."
+
+"In the terms of Chapter 7, these responses should be familiar.
+The first response was traditional. The government proposed changes in
+the law of copyright to “clarify” the rights that it was to protect. 9 These
+changes were intended to better define the rights granted under intellectual
+property law and to further support these rights with clarified (and possibly
+greater) legal penalties for their violation.
+The second response addressed norms, specifically copying norms. The
+report recommended increased educational efforts, both in schools and
+among the general public, about the nature of intellectual property and the
+importance of protecting it. In the terms of Chapter 7, this is the use of law
+to change norms so that norms will better support the protection of intellec-
+tual property. It is an indirect regulation of behavior by direct regulation of
+norms.
+The third and fourth responses mixed technology and the market. The
+report called for legal support—through financial subsidies and special legal
+protection—of “copyright management schemes.” These “schemes” were sim-
+ply technologies that would make it easier to control access to and use of
+copyrighted material. We will explore these “schemes” at some length later in
+this chapter, but I mention them now as another example of indirect regula-
+tion—using the market to subsidize the development of a certain software
+tool, and using law to regulate the properties of other software tools. Copy-
+right management systems would be supported by government funding and
+by the threat of criminal sanctions for anyone deploying software to crack
+them. 10"
+
+DMCA:
+"Congress followed the recommendations of the 1995 White Paper in some
+respects. The most important was the enactment of the Digital Millennium
+Copyright Act in 1998. That statute implemented directly the recommendation
+that “technological protection measures” be protected by law. Code that some-
+one implements to control either access to or use of a copyrighted work got
+special legal protection under the DMCA: Circumvention of that code, subject
+to a few important exceptions, constituted a violation of the law."
+
+Analog vs cyberspace:
+"The White Paper proceeds as if the problem of pro-
+tecting intellectual property in cyberspace was just like the problem of
+protecting intellectual property in real space. It proceeds as if the four con-
+straints would operate in the same proportions as in real space, as if nothing
+fundamental had changed.
+But something fundamental has changed: the role that code plays in the
+protection of intellectual property. Code can, and increasingly will, displace
+law as the primary defense of intellectual property in cyberspace. Private
+fences, not public law." (p.175)
+
+"We are not entering a time when copyright
+is more threatened than it is in real space. We are instead entering a time
+when copyright is more effectively protected than at any time since Guten-
+berg. The power to regulate access to and use of copyrighted material is about
+to be perfected. Whatever the mavens of the mid-1990s may have thought,
+cyberspace is about to give holders of copyrighted property the biggest gift of
+protection they have ever known."
+
+"In such an age, the real question for law is not, how can law aid in that
+protection? but rather, is the protection too great?"
+
+"In what we can call the first generation of digital technologies, content
+owners were unable to control who copied what." (p.176)
 
 
 Footnote 10:
