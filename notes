@@ -7,7 +7,8 @@ And there's law we can't (e.g. upload filters implemented in software. even if t
 * wenig kram auf den folien!
 
 * intro: who's lessig
-  * read WP article
+  * read WP article ✓
+  * https://www.youtube.com/watch?v=9HAw1i4gOU4
 * Aaron Swartz
   * read WP article
   * http://www.aaronsw.com/weblog/wikicodeislaw
@@ -22,6 +23,44 @@ And there's law we can't (e.g. upload filters implemented in software. even if t
 * How does it relate to the EU Copyright directive
   * netzpolitik Kommentare
   * go over Directive Text
+
+======================================================================
+# Who's Lessig
+
+born 1961
+US-American law professor, attorney and political activist
+
+free culture, remix culture, net neutrality; fight against corruption
+
+- Roy L. Furman Professor of Law at Harvard Law School
+- previously Stanford Law School (founded Center for Internet and Society) and University of Chicago
+- former board member of FSF
+- founded Creative Commons in 2001
+
+Fun Facts
+- was a candidate of the Democratic Party for the 2016 presidential elections, but stepped down before the primaries
+- ". As co-director of the Center for the Study of Constitutionalism in Eastern Europe there, he helped the newly-independent Republic of Georgia draft a constitution" (EN WP)
+"Lessig has emphasized in interviews that his philosophy experience at Cambridge radically changed his values and career path. Previously, he had held strong conservative or libertarian political views, desired a career in business, was a highly active member of Teenage Republicans, served as the Youth Governor for Pennsylvania through the YMCA Youth and Government program[23] in 1978, and almost pursued a Republican political career. "
+("Lessig earned a B.A. degree in economics and a B.S. degree in management (Wharton School) from the University of Pennsylvania, an M.A. degree in philosophy from the University of Cambridge (Trinity) in England, and a J.D. degree from Yale Law School in 1989.")
+and clerked for 2 conservative judges
+"Lessig remains skeptical of government intervention but favors some regulation, calling himself "a constitutionalist.""
+
+=======================================================================
+
+# Context, v1, v2
+
+1999 Code and other Laws of Cyberspace
+2006 Code Version 2.0
+
+v2 is a update; based on a wiki maintained and evaluated by Lessig and a group of Stanford Law School students
+enforces Lessig's viewpoint that cyberspace is indeed regulable and government's control will only increase (which we are being witnesses of)
+
+v2 starts with "This is a translation of an old book–indeed, in Internet time, it is a translation of an ancient text."
+
+"Governments couldn't touch life online. And hence, life online would be different, and separate, from the dynamic of life offline. Code v1 was an argument against that then common view.
+In the years since, that common view has faded. The confidence of the Internet exceptionalists has waned. The idea–and even the desire–that the Internet would remain unregulated is gone."
+
+East Coast Code (legislation) vs West Coast Code (technology, software architecture)
 
 =========================================================================
 https://netzpolitik.org/2019/npp-170-momentum-memes-und-grossproteste/
@@ -126,6 +165,9 @@ Zudem sieht der Entwurf „proaktive Maßnahmen“ vor, also Uploadfilter, mit d
 Lessig Code 2.0
 
 Chapter 10
+
+Cyberspace/the Internet changes not only the possibilities for content duplication and sharing but also the possibilities for control.
+Balance is displaced; fair use (previously tolerated because prosecution was unfeasible?) is threatened
 
 "What means would bring
 about the most efficient set of protections for property interests in cyberspace?" (p.169)
