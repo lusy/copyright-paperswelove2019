@@ -6,15 +6,15 @@ And there's law we can't (e.g. upload filters implemented in software. even if t
 * interactivity?
 * wenig kram auf den folien!
 
-* intro: who's lessig
+* intro: who's lessig ✓
   * read WP article ✓
   * https://www.youtube.com/watch?v=9HAw1i4gOU4
-* Aaron Swartz
-  * read WP article
-  * http://www.aaronsw.com/weblog/wikicodeislaw
+* Aaron Swartz ✓
+  * read WP article ✓
+  * http://www.aaronsw.com/weblog/wikicodeislaw ✓
   * skim through http://www.aaronsw.com/weblog/
   * https://www.youtube.com/watch?v=ZEEgb1cAwvk
-* context Code / Code 2.0
+* context Code / Code 2.0 ✓
 * Intellectual Property Chapter
   * excurse on norms/laws/architecture/economics
   * historical perspective: taxes on empty cassettes; artificially impaired technology
@@ -22,7 +22,18 @@ And there's law we can't (e.g. upload filters implemented in software. even if t
   * role of different lobbies
 * How does it relate to the EU Copyright directive
   * netzpolitik Kommentare
-  * go over Directive Text
+  * go over Directive Text: final version
+* Debate that followed up
+https://netzpolitik.org/2019/nationale-spielraeume-bei-uploadfiltern-zwischen-zitatrecht-und-metall-auf-metall/
+https://netzpolitik.org/2019/sechs-bundesministerien-lassen-zivilgesellschaft-von-geheimdienst-ueberpruefen/
+https://netzpolitik.org/2019/uploadfilter-die-spd-will-reinschreiben-was-die-union-fordert-aber-die-union-ist-dagegen/
+https://netzpolitik.org/2019/eu-parlament-unterstuetzt-einstuendige-loeschfrist-fuer-terroristische-inhalte/
+https://netzpolitik.org/2019/internetpioniere-warnen-vor-uploadfiltern-im-kampf-gegen-terror/
+
+* Also check
+  * https://www.vice.com/de/article/vbw8zy/streit-um-uploadfilter-und-artikel13-wie-axel-voss-das-internet-sieht
+  * Spain's fiasco with an Article 11 equivalent
+  * Urheberrecht vs copyright
 
 ======================================================================
 # Who's Lessig
@@ -61,6 +72,27 @@ v2 starts with "This is a translation of an old book–indeed, in Internet time,
 In the years since, that common view has faded. The confidence of the Internet exceptionalists has waned. The idea–and even the desire–that the Internet would remain unregulated is gone."
 
 East Coast Code (legislation) vs West Coast Code (technology, software architecture)
+
+=========================================================================
+# EU Copyright Directive
+
+a copyright reform --> a good thing, it is hopelessly outdated
+
+it was voted in favour on 26 March 2019
+
+"The European Council (EC) describes their key goals with the Directive as protecting press publications; reducing the "value gap" between the profits made by Internet platforms and by content creators; encouraging collaboration between these two groups, and creating copyright exceptions for text- and data-mining.[3]" EN WP
+
+Timeline
+20 Jun 2018 Directive is introduced by the European Parliament Committee on Legal Affairs
+12 Sep 2018 the Parliament approves a revised proposal
+13 Feb 2019 The final version, which resulted from negotiations during formal trilogue meetings, is presented to the parliament
+26 Mar 2019 Parlament votes in favour
+15 Apr 2019 the directive was approved by the Council of the European Union
+2 year period for Member states to pass appropriate legislation to meet the Directive's requirements.
+
+
+Draft Article 11 (Article 15) "link tax" "Google should pay for content they use and generate profit out of" (didn't work in Spain)
+Draft Article 13 (Article 17) tasks service providers that host user-generated content to employ "effective and proportionate" measures to prevent users from violating copyrigh
 
 =========================================================================
 https://netzpolitik.org/2019/npp-170-momentum-memes-und-grossproteste/
@@ -238,7 +270,7 @@ space will bring. Many believe that intellectual property cannot be protected
 in cyberspace."
 
 Footnote 6:
-"There is a frocious debate about whether these separate forms of regulations-copyright, patent, and trademark-should be referred to together as "Intellectual Property". I myself have gone both ways on this question, but currently believe it is harmful not to refer to these distinct bodies of law as "intellectual property." [...] by not calling them bythe same name, we lose a chance to point out inconsistencies in the way these different forms of property are treated. "
+"There is a ferocious debate about whether these separate forms of regulations-copyright, patent, and trademark-should be referred to together as "Intellectual Property". I myself have gone both ways on this question, but currently believe it is harmful not to refer to these distinct bodies of law as "intellectual property." [...] by not calling them bythe same name, we lose a chance to point out inconsistencies in the way these different forms of property are treated. "
 
 "Roughly put, copyright gives a copyright holder certain exclusive rights over
 the work, including, most famously, the exclusive right to copy the work."
@@ -354,6 +386,306 @@ protection? but rather, is the protection too great?"
 "In what we can call the first generation of digital technologies, content
 owners were unable to control who copied what." (p.176)
 
+"Some people argued for
+higher penalties for illegal copying of tapes (direct regulation by law). Some,
+such as Richard Stallman, argued for a tax on blank tapes"
+"Some argued for better education to stop illegal copies of tapes (indirect reg-
+ulation of norms by law).But some argued for a change in the code of DAT
+machines that would block unlimited perfect copying"
+"The tax and code regulators won. In late 1992, as a compromise between
+the technology and content industries, Congress passed the Audio Home
+Recording Act." (p.177)
+"The act first imposed a tax on both recorders and blank DAT
+media, with the revenues to be used to compensate copyright holders for the
+expected copyright infringement enabled by the technology. But more inter-
+estingly, the Act required manufacturers of DAT technology to include a Serial
+Copy Management System, which would limit the ability of DAT technology
+to copy."
+
+"As the Net is now, basic functions like copying and access
+are crudely regulated in an all-or-nothing fashion. You generally have the
+right to copy or not, to gain access or not."(p.178)
+
+"As Stefik writes:
+[T]he consumer does not have the option of
+disregarding a digital contract by, for example, making unauthorized copies of
+a work."
+
+"An important point about copyright law is that, though designed in part
+to protect authors, the control it was designed to create was never to be per-
+fect." (p.179)
+"As the Supreme Court noted, copyright “protection has never accorded
+the copyright owner complete control over all possible uses of his work.” 18
+Thus, the law grants only particular exclusive rights, and those rights are sub-
+ject to important limitations, such as “fair use,” limited terms, and the first sale
+doctrine."
+"the law was never designed to simply do the author’s bidding. It had pub-
+lic purposes as well as the author’s interest in mind." //cmp Copyright Directive
+
+"Trusted systems provide authors with the same sort of protection.
+Because authors can restrict unauthorized use of their material, they can
+extract money in exchange for access. Trusted systems thus achieve what copy-
+right law aims to, but they can achieve this protection without the law doing
+the restricting."
+"What copyright seeks to do using the threat of law and the push of norms,
+trusted systems do through the code."
+"The controls needed to reg-
+ulate this access are built into the systems, and no users (except hackers) have
+a choice about whether to obey them."
+"Trusted systems in this sense are a privatized alternative to copyright law."
+"the code is effectively doing the work that the law was
+designed to do. It implements the law’s protection, through code, far more
+effectively than the law did."
+
+"Private law creates private rights to the extent that these private rights
+serve some collective good. If a private right is harmful to a collective good,
+then the state has no reason to create it." (p.180)
+
+"The
+state has an interest in defining rights to private property because private
+property helps produce a general, and powerful, prosperity."(p.181)
+"There is no property that does not have to yield at
+some point to the interests of the state."
+
+"This balance, the realists argued, is a feature of all property. But it is an
+especially important feature of intellectual property. The balance of rights
+with intellectual property differs from the balance with ordinary real or per-
+sonal property. “Information,” as Boyle puts it, “is different.” 24"
+"If you used my house while I did, I would have less
+to use."
+"If you “take” my idea, I still
+have it. If I tell you an idea, you have not deprived me of it. 26
+An unavoidable
+feature of intellectual property is that its consumption, as the economists like
+to put it, is “nonrivalrous.”"
+
+"The other concept is whether my use of a divulged idea lessens your use
+of the same idea." (p.182)
+
+"If the law did not
+protect authorship at all, there would be fewer authors." (p.183)
+// cmp motivation Copyright Directive
+
+"While we protect real and personal property to protect the owner from
+harm and give the owner an incentive, we protect intellectual property to
+ensure that we create a sufficient incentive to produce it. “Sufficient incentive,”
+however, is something less than “perfect control.”"
+
+"The Constitution does not allow Congress to grant authors and
+inventors permanent exclusive rights to their writings and discoveries, [...]
+It
+does not give Congress the power to give them a perpetual “property” in their
+writings and discoveries, only an exclusive right over them for a limited time."
+
+"The Constitution’s protection for intellectual property then is fundamen-
+tally different from its protection of ordinary property." (p.184)
+
+"Economists have
+long understood that granting property rights over information is dangerous
+(to say the least). 33 This is not because of leftist leanings among economists;
+it is because economists are consequentialists, and their objective in granting
+any property right is simply to facilitate production. But there is no way to
+know, in principle, whether increasing or decreasing the rights granted under
+intellectual property law will lead to an increase in the production of intellec-
+tual property. The reasons are complex, but the point is not: Increasing intel-
+lectual property’s protection is not guaranteed to “promote the progress of
+science and useful arts”—indeed, often doing so will stifle it."
+
+"Taken together, these rules give the creator significant—but not perfect—
+control over the use of what he produces. They give the public some access,
+but not complete access. They are balanced differently from the balance the
+law strikes for ordinary property—by design. They are constitutionally struc-
+tured to help build an intellectual and cultural commons." (p.185)
+
+"So copyright law strikes a balance between control and access. What about
+that balance when code is the law? Should we expect that any of the limits will
+remain? Should we expect code to mirror the limits that the law imposes?
+Fair use? Limited term? Would private code build these “bugs” into its protec-
+tions?" (p.185)
+"The point should be obvious: When intellectual property is protected by
+code, nothing requires that the same balance be struck. Nothing requires the
+owner to grant the right of fair use."
+"Thus, as privatized law, trusted systems regulate in the same domain that
+copyright law regulates."
+
+"As I mentioned above, the DMCA contains an anti-circumvention provision.
+That part of the law forbids the circumvention of some technical protection
+measures; it forbids the development of tools to circumvent technical protec-
+tion as well. Most important, it forbids these circumventions regardless of
+the purpose of the circumvention. Thus, if the underlying use you would
+make of a copyrighted work—if you could get access to it—is a “fair use,” the
+DMCA still makes it an offense to circumvent technical protections to get
+access to it. Thus one part of the law of copyright grants “fair use,” while
+another part of copyright removes at least some fair use liberty where the
+fair use has been removed by technical means. 38" (p.186)
+
+"Thus, when the law acts
+with code to remove the law’s protection for fair use, this should raise an
+important question—at least for those concerned about maintaining the bal-
+ance that copyright law strikes.
+But maybe this conflict is just temporary. Couldn’t the code be changed
+to protect fair use?
+The answer to that hopeful (and again, hopeful because my main point is
+about whether incentives to protect fair use exist) question is no, not directly.
+Fair use inherently requires a judgment about purpose, or intent. That judg-
+ment is beyond the ken of even the best computers." (p.187)
+//cmp article 13
+
+". But contracts are not as bad as code. Contracts are a
+form of law. If a term of a contract is inconsistent with a value of copyright
+law, you can refuse to obey it and let the other side get a court to enforce it."
+
+"As Stefik writes, trusted systems “differ
+from an ordinary contract in critical ways.”
+[I]n an ordinary contract, compliance is not automatic;"(p.188)
+
+"The same is not true of code. Whatever problems there are when con-
+tracts replace copyright law, the problems are worse when code displaces
+copyright law."
+
+"Code now makes possible increasingly perfect control over how
+culture is spread."
+
+"The balance struck by the law
+was the best that authors could get. But now, code gives authors a better deal.
+The question for legal policy is whether this better deal makes public sense."
+"Here we confront the first latent ambiguity within the law of copyright."
+
+Fair use:
+"Were these transactions left free because it
+was too costly to meter them? Or were these transactions left free because
+keeping them free was an important public value tied to copyright?" (p.189)
+
+"When new technology disturbs the balance, we must
+decide whether the original intent was that there be a balance, or that the
+scope of one side of each balance should faithfully track the index to which it
+was originally tied."
+
+"In the context of fair use, we
+believe that either fair use is to be a minimum of public use, guaranteed
+regardless of the technology, 52 or that it is just an efficient compromise in
+response to an inefficient technology, to be removed as soon as efficiency can
+be achieved."
+
+"The loss of fair use is a consequence of the perfection of trusted systems.
+Whether you consider it a problem or not depends on your view of the value
+of fair use." (p.190)
+
+Anonymity:
+"We reveal to the world a certain class of data
+about ourselves that we ordinarily expect the world not to use. What happens
+when they use it?" (p.191)
+
+right to read anonymously
+"we must ask whether the latent right
+to read anonymously, given to us before by imperfections in technologies,
+should be a legally protected right." (p.191)
+"It is a value that we can read anony-
+mously, without fear that others will know or watch or change their behavior
+based on what we read. This is an element of intellectual freedom; it is a part
+of what makes us as we are. 56
+But this element is potentially erased by trusted systems."
+
+"This could first be a question of translation: namely, how should changes
+in technology be accommodated to preserve values from an earlier context in
+a new context?"
+
+"She argues that there is a right to resist, or
+“hack,” trusted systems to the extent that they infringe on traditional fair use.
+(Others have called this the “Cohen Theorem.”)"
+
+"Copyright law at its core regulates “copies.” In the analog world, there
+were very few contexts in which one produced “copies.”" (p.192)
+
+"As Jessica Litman
+described more than a decade ago,
+At the turn of the century, U.S. copyright law was technical, inconsistent, and
+difficult to understand, but it didn’t apply to very many people or very many
+things. If one were an author or publisher of books, maps, charts, paintings,
+sculpture, photographs or sheet music, a playwright or producer of plays, or a
+printer, the copyright law bore on one’s business. Booksellers, piano-roll and
+phonograph record publishers, motion picture producers, musicians, scholars,
+members of Congress, and ordinary consumers could go about their business
+without ever encountering a copyright problem. 58"
+
+"Thus there were many ways in which you could use creative work in the
+analog world without producing a copy."
+"Digital technology, at its core, makes copies."
+"There is no way to use any content in a digital
+context without that use producing a copy."
+
+"While in the analog world, life was
+sans copyright law; in the digital world, life is subject to copyright law." (p.193)
+"The emergence of digital
+technologies has thus radically increased the domain of copyright law—from
+regulating a tiny portion of human life, to regulating absolutely every bit of
+life on a computer."
+
+"Now if all you think about is protecting the distribution of professionally
+created culture, this might not concern you much. If you’re trying to stop
+“piracy,” then a regime that says every use requires permission is a regime
+that gives you a fairly broad range of tools for stamping out piracy."
+"just now, in fact, protecting the distribution of profes-
+sionally created culture is not the only, or even, I suggest, the most
+important part of culture. And indeed, from a historical perspective, top-
+down, professionally produced culture is but a tiny part of what makes
+any culture sing."
+
+"Standing alongside professional culture is amateur culture—where ama-
+teur doesn’t mean inferior or without talent, but instead culture created by
+people who produce not for the money, but for the love of what they do."
+
+"Importantly, too, this kind of cultural remix has historically been free of
+regulation." (p.194)
+
+"All this has now changed, and digital technologies are responsible. First,
+and most important, digital technologies have radically expanded the scope of
+this amateur culture. Now the clever remix of some political event or the
+latest song by your favorite band are not just something you can share with
+your friends. Digital technologies have made it simple to capture and share
+this creativity with the world."
+"“Peo-
+ple are waking from their consumerist coma,” one commentator describes. 62"
+
+". To the extent it uses others’ creativity, it needs the per-
+mission of others. To the extent it builds upon the creativity of others, it needs
+to be sure that that creativity can be built upon legally. A whole system of reg-
+ulation has now been grafted upon an economy of creativity that until now
+has never known regulation. Amateur culture, or bottom up culture, or the
+culture that lives outside of commercial transactions—all of this is subject to
+regulation in a way that 30 years ago it was not." (p.195)
+
+"while there is extensive and new
+regulation of amateur culture, that regulation creates new wealth for profes-
+sional culture. There’s a choice to be made about which form of culture we
+should protect."
+// EU Copyright Directive takes a clear stance on this one
+
+"These three examples reveal a common pattern—one that will reach far
+beyond copyright. At one time we enjoyed a certain kind of liberty. But that
+liberty was not directly chosen; it was a liberty resulting from the high costs of
+control. 65" (p.196)
+
+"When costs of control fall, however, liberty is threatened."
+
+Pending Choices:
+- whether to allow intellectual property in effect to
+become completely propertized
+- whether to allow this regime to
+erase the anonymity latent in less efficient architectures of control
+- whether
+to allow the expansion of intellectual property to drive out amateur culture
+
+"However efficient the alternative may be, we should
+certainly architect cyberspaces to ensure anonymity—or more precisely, pseu-
+donymity—first." (p.197)
+"All of the good that comes
+from monitoring could be achieved while protecting privacy. It may take a bit
+more coding to build in routines for breaking traceability"
+
+"We can architect cyberspace to preserve a commons or not." (p.198)
+
+"I still believe private action alone is not enough." (p.199)
 
 Footnote 10:
 
