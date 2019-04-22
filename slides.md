@@ -147,6 +147,27 @@ protection? but rather, is the protection too great?"
 
 ---
 
+> "The European Council (EC) describes their key goals with the Directive as protecting press publications; reducing the "value gap" between the profits made by Internet platforms and by content creators; encouraging collaboration between these two groups, and creating copyright exceptions for text- and data-mining.[3]" EN WP
+
+---
+
+## Timeline
+
+20 Jun 2018 Directive is introduced by the European Parliament Committee on Legal Affairs
+12 Sep 2018 the Parliament approves a revised proposal
+13 Feb 2019 The final version, which resulted from negotiations during formal trilogue meetings, is presented to the parliament
+26 Mar 2019 Parlament votes in favour
+15 Apr 2019 the directive was approved by the Council of the European Union
+2 year period for Member states to pass appropriate legislation to meet the Directive's requirements.
+
+---
+
+Draft Article 11 (Article 15) "link tax" "Google should pay for content they use and generate profit out of" (didn't work in Spain)
+"Article 11, referred to as the "link tax", generated concerns that less information and fewer resources would be available through search engines"
+Draft Article 13 (Article 17) tasks service providers that host user-generated content to employ "effective and proportionate" measures to prevent users from violating copyrigh
+
+---
+
 # Thank you!
 
 These slides are under the [by-sa Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
