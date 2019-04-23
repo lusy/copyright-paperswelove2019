@@ -26,6 +26,20 @@
 
 ---
 
+![protests Hamburg](images/Spontante_Kundgebung_in_Hamburg_gegen_EU-Urheberrechtsvorhaben_4.jpg)
+
+---
+
+![Blackout DE Wikipedia](images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png)
+
+---
+
+![Sven Schulze tweet](images/schulze-tweet.png)
+https://twitter.com/schulzeeuropa/status/1096445520770404352
+
+
+---
+
 Draft Article 11 (Article 15) "link tax" "Google should pay for content they use and generate profit out of" (didn't work in Spain)
 "Article 11, referred to as the "link tax", generated concerns that less information and fewer resources would be available through search engines"
 Draft Article 13 (Article 17) tasks service providers that host user-generated content to employ "effective and proportionate" measures to prevent users from violating copyrigh
@@ -34,17 +48,20 @@ Draft Article 13 (Article 17) tasks service providers that host user-generated c
 
 # Lawrence Lessig
 
-(pic)
+![Lessig](images/Lawrence_Lessig_May_2017.jpg)
 
 ---
 
 # Code and Other Laws of Cyberspace
 
-(pic)
+![Code v1](images/code_v1_book.jpg)
 
 ---
 
 # Code Version 2.0
+
+![Code v2](images/code_v2_book.jpg)
+
 
 ---
 
@@ -55,7 +72,7 @@ Draft Article 13 (Article 17) tasks service providers that host user-generated c
 
 # The pathetic dot theory
 
-(pic)
+![pathetic dot theory](images/Pathetic_dot_theory.png)
 
 
 ---
