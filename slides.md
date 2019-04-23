@@ -8,76 +8,89 @@
 
 ---
 
-> "The European Council (EC) describes their key goals with the Directive as protecting press publications; reducing the "value gap" between the profits made by Internet platforms and by content creators; encouraging collaboration between these two groups, and creating copyright exceptions for text- and data-mining.[3]" EN WP
+> "The European Council (EC) describes their key goals with the Directive as protecting press publications; reducing the "value gap" between the profits made by Internet platforms and by content creators; encouraging collaboration between these two groups, and creating copyright exceptions for text- and data-mining." Source: EN WP
 
 ---
 
 ## Timeline
 
-       2012 The Commission announces they will be revising the 2001 Copyright Directive
-   Jul 2014 EC publishes first report on the state of EU copyright
-14 Sep 2016 EC issues first draft of the directive
-20 Jun 2018 Directive is introduced by the European Parliament Committee on Legal Affairs
-12 Sep 2018 the Parliament approves a revised proposal
-13 Feb 2019 The final version, which resulted from negotiations during formal trilogue meetings, is presented to the parliament
-26 Mar 2019 Parlament votes in favour
-15 Apr 2019 the directive was approved by the Council of the European Union
-2 year period for Member states to pass appropriate legislation to meet the Directive's requirements.
+    2012 planned revision of 2001 Copyright Directive announced
+    Jul 2014 first report on the state of EU copyright published
+    14 Sep 2016 first draft of the new directive
+    20 Jun 2018 EU Parliament Committee on Legal Affairs
+    12 Sep 2018 EU Parliament approves a revised proposal
+    13 Feb 2019 final version after trilogue meetings
+    26 Mar 2019 EU Parlament votes in favour
+    15 Apr 2019 directive approved by the EU Council
+    2 year period for Member states to pass appropriate legislation
 
 ---
 
 ![protests Hamburg](images/Spontante_Kundgebung_in_Hamburg_gegen_EU-Urheberrechtsvorhaben_4.jpg)
+<small>Markus Göllnitz https://commons.wikimedia.org/wiki/User:CamelCaseNick
+https://creativecommons.org/licenses/by-sa/4.0/deed.en</small>
 
 ---
 
 ![Blackout DE Wikipedia](images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png)
+<small>https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png</small>
 
 ---
 
 ![Sven Schulze tweet](images/schulze-tweet.png)
-https://twitter.com/schulzeeuropa/status/1096445520770404352
-
-
----
-
-Draft Article 11 (Article 15) "link tax" "Google should pay for content they use and generate profit out of" (didn't work in Spain)
-"Article 11, referred to as the "link tax", generated concerns that less information and fewer resources would be available through search engines"
-Draft Article 13 (Article 17) tasks service providers that host user-generated content to employ "effective and proportionate" measures to prevent users from violating copyrigh
+<small>https://twitter.com/schulzeeuropa/status/1096445520770404352)</small>
 
 ---
 
-# Lawrence Lessig
+## Draft Article 11 (Article 15): "link tax"
+
+"Google should pay for content they use and generate profit out of"
+
+---
+
+## Draft Article 13 (Article 17): "upload filters"
+
+tasks service providers that host user-generated content to employ "effective and proportionate" measures to prevent users from violating copyright
+
+---
+
+> "Mit der Schrotflinte auf Youtube geschossen, halbes Netz mitgetroffen"
+
+<small>https://netzpolitik.org/2019/chance-verpasst-dieses-urheberrecht-bleibt-in-der-vergangenheit-stecken/</small>
+
+---
+
+## Lawrence Lessig
 
 ![Lessig](images/Lawrence_Lessig_May_2017.jpg)
+<small>By Joi Ito - https://www.flickr.com/photos/joi/33668559574/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=59092992</small>
 
 ---
 
-# Code and Other Laws of Cyberspace
+## Code and Other Laws of Cyberspace
 
 ![Code v1](images/code_v1_book.jpg)
+<small>By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=34070395</small>
 
 ---
 
-# Code Version 2.0
+## Code Version 2.0
 
 ![Code v2](images/code_v2_book.jpg)
+<small>By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=34069549</small>
 
 
 ---
 
-# Code Version 2.0
-## TOC
-
----
-
-# The pathetic dot theory
+## The pathetic dot theory
 
 ![pathetic dot theory](images/Pathetic_dot_theory.png)
+<small>By Lawrence Lessig - https://www.socialtext.net/data/workspaces/codev2/attachments/what_things_regulate:20061211230426-1-8535/scaled/4constraints.png, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=25113167</small>
 
 
 ---
 
-# Intellectual Property Chapter
+# Chapter 10: Intellectual Property
 
 ---
 
@@ -87,10 +100,6 @@ Draft Article 13 (Article 17) tasks service providers that host user-generated c
 > is more threatened than it is in real space. We are instead entering a time
 > when copyright is more effectively protected than at any time since Gutenberg."
 
-//Notes
-Cyberspace/the Internet changes not only the possibilities for content duplication and sharing but also the possibilities for control.
-Balance is displaced; fair use (previously tolerated because prosecution was unfeasible?) is threatened
-
 ---
 
 "As Jessica Litman
@@ -99,110 +108,85 @@ At the turn of the century, U.S. copyright law was technical, inconsistent, and
 difficult to understand, but it didn’t apply to very many people or very many
 things. If one were an author or publisher of books, maps, charts, paintings,
 sculpture, photographs or sheet music, a playwright or producer of plays, or a
-printer, the copyright law bore on one’s business. Booksellers, piano-roll and
-phonograph record publishers, motion picture producers, musicians, scholars,
-members of Congress, and ordinary consumers could go about their business
-without ever encountering a copyright problem. 58"
+printer, the copyright law bore on one’s business. Booksellers, [...]
+musicians, scholars, [...], and ordinary consumers could go about their business
+without ever encountering a copyright problem."
 
 ---
 
+"the single, defining feature of these norms can perhaps be summarized like
+this: that a consumer could do with the copyrighted content that he legally
+owned anything he wanted to do, without ever triggering the law of copyright."
+
+---
+
+"Roughly put, copyright gives a copyright holder certain exclusive rights over
+the work, including, most famously, the exclusive right to copy the work."
+
+"The right is protected to the extent that laws (and norms) support it,"
+"it is threatened to the extent that technology makes it easy to copy."
+"In this sense, copyright has always been at war with technology."
+
+---
+
+## Analog vs digital
+
 "Thus there were many ways in which you could use creative work in the
 analog world without producing a copy."
+
 "Digital technology, at its core, makes copies."
+
 "There is no way to use any content in a digital
 context without that use producing a copy."
 
 ---
 
-> "What means would bring
-> about the most efficient set of protections for property interests in cyberspace?" (p.169)
-> "One is the traditional protection of
-> law—the law defines a space where others should not enter and punishes
-> people who enter nonetheless. The other protection is a fence, a technological
-> device (a bit of code) that (among other things) blocks the unwanted from
-> entering."
+## Possible regulators
 
-Notes:
-"costs of law in this context are
-extremely high"
-"costs of enforcement, but also
-because it is hard for the law to distinguish between legitimate and illegiti-
-mate uses of cyberspaces."
-"Legitimacy depends on the intention of the person granting
-access."
-"since the fences of cyberspace can be made to reflect that intent
-cheaply, it is best to put all the incentive on the owner to define access as he
-wishes. The right to browse should be the norm, and the burden to lock doors
-should be placed on the owner. 4"
+"What means would bring
+about the most efficient set of protections for property interests in cyberspace?"
+
+"One is the traditional protection of
+law—the law defines a space where others should not enter and punishes
+people who enter nonetheless. The other protection is a fence, a technological
+device (a bit of code) that (among other things) blocks the unwanted from
+entering."
 
 ---
 
-> "it is hard for the law to distinguish between legitimate and illegiti-
-> mate uses of cyberspaces"
+"it is hard for the law to distinguish between legitimate and illegiti-
+mate uses of cyberspaces"
 
 ---
 
-> "They also invite a question
-> that has been asked by Justice Stephen Breyer and many others: Should law
-> protect some kinds of property—in particular, intellectual property—at all?"
+## White Paper 1995
+
+"The White Paper proceeds as if the problem of pro-
+tecting intellectual property in cyberspace was just like the problem of
+protecting intellectual property in real space.
+[...]
+But something fundamental has changed: the role that code plays in the
+protection of intellectual property. Code can, and increasingly will, displace
+law as the primary defense of intellectual property in cyberspace. Private
+fences, not public law."
 
 ---
 
-> "Roughly put, copyright gives a copyright holder certain exclusive rights over
-> the work, including, most famously, the exclusive right to copy the work."
-> "The right is protected to the extent that laws (and norms) support it,"
-> "it is threatened to the extent that technology makes it easy to copy." (p.172)
-> "In this sense, copyright has always been at war with technology."
+# DMCA 1998
+
+"Code that some-
+one implements to control either access to or use of a copyrighted work got
+special legal protection under the DMCA: Circumvention of that code, subject
+to a few important exceptions, constituted a violation of the law."
 
 ---
 
-> "the single, defining feature of these norms can perhaps be summarized like
-> this: that a consumer could do with the copyrighted content that he legally
-> owned anything he wanted to do, without ever triggering the law of copyright."
+## Law vs contracts vs code
 
----
-
-
-> "Roughly put, copyright gives a copyright holder certain exclusive rights over
-> the work, including, most famously, the exclusive right to copy the work."
-> "The right is protected to the extent that laws (and norms) support it,"
-> "it is threatened to the extent that technology makes it easy to copy." (p.172)
-> "In this sense, copyright has always been at war with technology."
-> "as the cost of copying decreased, and the spread of technologies for
-> copying increased, the threat to the author’s control increased."
-
----
-
-DMCA 1998:
-
-> "Code that some-
-> one implements to control either access to or use of a copyrighted work got
-> special legal protection under the DMCA: Circumvention of that code, subject
-> to a few important exceptions, constituted a violation of the law."
-
----
-
-> "The White Paper proceeds as if the problem of pro-
-> tecting intellectual property in cyberspace was just like the problem of
-> protecting intellectual property in real space.
-> [...]
-> But something fundamental has changed: the role that code plays in the
-> protection of intellectual property. Code can, and increasingly will, displace
-> law as the primary defense of intellectual property in cyberspace. Private
-> fences, not public law." (p.175)
-
----
-
-> "In such an age, the real question for law is not, how can law aid in that
-> protection? but rather, is the protection too great?"
-//*cough*, EU Directive
-
----
-
-> "As Stefik writes:
-> [T]he consumer does not have the option of
-> disregarding a digital contract by, for example, making unauthorized copies of
-> a work."
+"As Stefik writes:
+[T]he consumer does not have the option of
+disregarding a digital contract by, for example, making unauthorized copies of
+a work."
 
 ---
 
