@@ -72,13 +72,13 @@ tasks service providers that host user-generated content to employ "effective an
 
 ---
 
-<img src="images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png" height="500" alt="blackout German Wikipedia March 2019">
-<small>[https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png)</small>
+<img src="images/schulze-tweet.png" height="500" alt="Sven Schulze tweet">
+<small>[https://twitter.com/schulzeeuropa/status/1096445520770404352](https://twitter.com/schulzeeuropa/status/1096445520770404352)</small>
 
 ---
 
-<img src="images/schulze-tweet.png" height="500" alt="Sven Schulze tweet">
-<small>[https://twitter.com/schulzeeuropa/status/1096445520770404352](https://twitter.com/schulzeeuropa/status/1096445520770404352)</small>
+<img src="images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png" height="500" alt="blackout German Wikipedia March 2019">
+<small>[https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png)</small>
 
 ---
 
@@ -124,15 +124,7 @@ tasks service providers that host user-generated content to employ "effective an
 
 ---
 
-"As Jessica Litman
-described more than a decade ago,
-At the turn of the century, U.S. copyright law was technical, inconsistent, and
-difficult to understand, but it didn’t apply to very many people or very many
-things. If one were an author or publisher of books, maps, charts, paintings,
-sculpture, photographs or sheet music, a playwright or producer of plays, or a
-printer, the copyright law bore on one’s business. Booksellers, [...]
-musicians, scholars, [...], and ordinary consumers could go about their business
-without ever encountering a copyright problem."
+# Copyright, historically
 
 ---
 
@@ -176,15 +168,13 @@ entering."
 
 ---
 
-"it is hard for the law to distinguish between legitimate and illegiti-
-mate uses of cyberspaces"
+"it is hard for the law to distinguish between legitimate and illegitiamate uses of cyberspaces"
 
 ---
 
 ## White Paper 1995
 
-"The White Paper proceeds as if the problem of pro-
-tecting intellectual property in cyberspace was just like the problem of
+"The White Paper proceeds as if the problem of protecting intellectual property in cyberspace was just like the problem of
 protecting intellectual property in real space.
 [...]
 But something fundamental has changed: the role that code plays in the
@@ -196,8 +186,7 @@ fences, not public law."
 
 ## DMCA 1998
 
-"Code that some-
-one implements to control either access to or use of a copyrighted work got
+"Code that someone implements to control either access to or use of a copyrighted work got
 special legal protection under the DMCA: Circumvention of that code, subject
 to a few important exceptions, constituted a violation of the law."
 
@@ -212,19 +201,7 @@ a work."
 
 ---
 
-## trusted systems
-
-"What copyright seeks to do using the threat of law and the push of norms,
-trusted systems do through the code."
-
----
-
 ## For whom is the law
-
-"If the law did not
-protect authorship at all, there would be fewer authors."
-
----
 
 "Private law creates private rights to the extent that these private rights
 serve some collective good. If a private right is harmful to a collective good,
@@ -232,12 +209,8 @@ then the state has no reason to create it."
 
 ---
 
-"An important point about copyright law is that, though designed in part
-to protect authors, the control it was designed to create was never to be per-
-fect."
-
-"the law was never designed to simply do the author’s bidding. It had pub-
-lic purposes as well as the author’s interest in mind."
+"If the law did not
+protect authorship at all, there would be fewer authors."
 
 ---
 
@@ -248,27 +221,11 @@ that gives you a fairly broad range of tools for stamping out piracy."
 
 ---
 
-"Standing alongside professional culture is amateur culture—where ama-
-teur doesn’t mean inferior or without talent, but instead culture created by
+"Standing alongside professional culture is amateur culture—where amateur doesn’t mean inferior or without talent, but instead culture created by
 people who produce not for the money, but for the love of what they do."
 
 "Importantly, too, this kind of cultural remix has historically been free of
 regulation."
-
----
-
-"digital technologies have radically expanded the scope of
-this amateur culture. Now the clever remix of some political event or the
-latest song by your favorite band are not just something you can share with
-your friends. Digital technologies have made it simple to capture and share
-this creativity with the world."
-
----
-
-"while there is extensive and new
-regulation of amateur culture, that regulation creates new wealth for profes-
-sional culture. There’s a choice to be made about which form of culture we
-should protect."
 
 ---
 
@@ -280,20 +237,11 @@ keeping them free was an important public value tied to copyright?"
 
 ---
 
-"So copyright law strikes a balance between control and access."
-
-"The point should be obvious: When intellectual property is protected by
-code, nothing requires that the same balance be struck. Nothing requires the
-owner to grant the right of fair use."
-
----
-
 "But maybe this conflict is just temporary. Couldn’t the code be changed
 to protect fair use?
 The answer to that hopeful (and again, hopeful because my main point is
 about whether incentives to protect fair use exist) question is no, not directly.
-Fair use inherently requires a judgment about purpose, or intent. That judg-
-ment is beyond the ken of even the best computers."
+Fair use inherently requires a judgment about purpose, or intent. That judgment is beyond the ken of even the best computers."
 
 ---
 
@@ -320,6 +268,10 @@ become completely propertized
 erase the anonymity latent in less efficient architectures of control
 - whether
 to allow the expansion of intellectual property to drive out amateur culture
+
+---
+
+## What values are we protecting?
 
 ---
 
