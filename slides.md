@@ -26,25 +26,31 @@
 
 ---
 
-![protests Hamburg](images/Spontante_Kundgebung_in_Hamburg_gegen_EU-Urheberrechtsvorhaben_4.jpg)
-<small>Markus Göllnitz https://commons.wikimedia.org/wiki/User:CamelCaseNick
-https://creativecommons.org/licenses/by-sa/4.0/deed.en</small>
-
----
-
-![Blackout DE Wikipedia](images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png)
-<small>https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png</small>
-
----
-
-![Sven Schulze tweet](images/schulze-tweet.png)
-<small>https://twitter.com/schulzeeuropa/status/1096445520770404352)</small>
-
----
-
 ## Draft Article 11 (Article 15): "link tax"
 
-"Google should pay for content they use and generate profit out of"
+"news aggregators or media-monitoring services" which use news articles for commercial purposes should pay the publishers for accessing them
+
+---
+
+> "The protection granted under the first subparagraph shall not apply to acts of
+hyperlinking.
+
+> The rights provided for in the first subparagraph shall not apply in respect of the use of
+individual words or very short extracts of a press publication."
+
+---
+
+> "4.
+The rights provided for in paragraph 1 shall expire two years after the press publication is
+published. That term shall be calculated from 1 January of the year following the date on
+which that press publication is published."
+
+---
+
+> "5.
+Member States shall provide that authors of works incorporated in a press publication
+receive an appropriate share of the revenues that press publishers receive for the use of
+their press publications by information society service providers."
 
 ---
 
@@ -56,36 +62,52 @@ tasks service providers that host user-generated content to employ "effective an
 
 > "Mit der Schrotflinte auf Youtube geschossen, halbes Netz mitgetroffen"
 
-<small>https://netzpolitik.org/2019/chance-verpasst-dieses-urheberrecht-bleibt-in-der-vergangenheit-stecken/</small>
+<small>[https://netzpolitik.org/2019/chance-verpasst-dieses-urheberrecht-bleibt-in-der-vergangenheit-stecken/](https://netzpolitik.org/2019/chance-verpasst-dieses-urheberrecht-bleibt-in-der-vergangenheit-stecken/)</small>
+
+---
+
+<img src="images/Spontante_Kundgebung_in_Hamburg_gegen_EU-Urheberrechtsvorhaben_4.jpg" height="500" alt="protests Hamburg">
+<small>[Markus Göllnitz](https://commons.wikimedia.org/wiki/User:CamelCaseNick)
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</small>
+
+---
+
+<img src="images/Blackout_of_wikipediade_by_Wikimedia_Deutschland_-_March_2019.png" height="500" alt="blackout German Wikipedia March 2019">
+<small>[https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blackout_of_wikipedia.de_by_Wikimedia_Deutschland_-_March_2019.png)</small>
+
+---
+
+<img src="images/schulze-tweet.png" height="500" alt="Sven Schulze tweet">
+<small>[https://twitter.com/schulzeeuropa/status/1096445520770404352](https://twitter.com/schulzeeuropa/status/1096445520770404352)</small>
 
 ---
 
 ## Lawrence Lessig
 
-![Lessig](images/Lawrence_Lessig_May_2017.jpg)
-<small>By Joi Ito - https://www.flickr.com/photos/joi/33668559574/, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=59092992</small>
+<img src="images/Lawrence_Lessig_May_2017.jpg" height="400" alt="Lawrence Lessig">
+<small>By [Joi Ito](https://www.flickr.com/photos/joi/33668559574/), CC BY 2.0, [https://commons.wikimedia.org/w/index.php?curid=59092992](https://commons.wikimedia.org/w/index.php?curid=59092992)</small>
 
 ---
 
 ## Code and Other Laws of Cyberspace
 
-![Code v1](images/code_v1_book.jpg)
-<small>By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=34070395</small>
+<img src="images/code_v1_book.jpg" height="400" alt="Code v1">
+<small>By Source, Fair use, [https://en.wikipedia.org/w/index.php?curid=34070395](https://en.wikipedia.org/w/index.php?curid=34070395)</small>
 
 ---
 
 ## Code Version 2.0
 
-![Code v2](images/code_v2_book.jpg)
-<small>By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=34069549</small>
+<img src="images/code_v2_book.jpg" height="400" alt="Code v2">
+<small>By Source, Fair use, [https://en.wikipedia.org/w/index.php?curid=34069549](https://en.wikipedia.org/w/index.php?curid=34069549)</small>
 
 
 ---
 
 ## The pathetic dot theory
 
-![pathetic dot theory](images/Pathetic_dot_theory.png)
-<small>By Lawrence Lessig - https://www.socialtext.net/data/workspaces/codev2/attachments/what_things_regulate:20061211230426-1-8535/scaled/4constraints.png, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=25113167</small>
+<img src="images/Pathetic_dot_theory.png" height="400" alt="pathetic dot theory">
+<small>By Lawrence Lessig - [https://www.socialtext.net/data/workspaces/codev2/attachments/what_things_regulate:20061211230426-1-8535/scaled/4constraints.png](https://www.socialtext.net/data/workspaces/codev2/attachments/what_things_regulate:20061211230426-1-8535/scaled/4constraints.png), CC BY-SA 2.5, [https://commons.wikimedia.org/w/index.php?curid=25113167](https://commons.wikimedia.org/w/index.php?curid=25113167)</small>
 
 
 ---
@@ -172,7 +194,7 @@ fences, not public law."
 
 ---
 
-# DMCA 1998
+## DMCA 1998
 
 "Code that some-
 one implements to control either access to or use of a copyrighted work got
@@ -190,114 +212,32 @@ a work."
 
 ---
 
-"An important point about copyright law is that, though designed in part
-to protect authors, the control it was designed to create was never to be per-
-fect." (p.179)
-"As the Supreme Court noted, copyright “protection has never accorded
-the copyright owner complete control over all possible uses of his work.” 18
-Thus, the law grants only particular exclusive rights, and those rights are sub-
-ject to important limitations, such as “fair use,” limited terms, and the first sale
-doctrine."
-"the law was never designed to simply do the author’s bidding. It had pub-
-lic purposes as well as the author’s interest in mind." //cmp Copyright Directive
-
----
+## trusted systems
 
 "What copyright seeks to do using the threat of law and the push of norms,
 trusted systems do through the code."
-"The controls needed to reg-
-ulate this access are built into the systems, and no users (except hackers) have
-a choice about whether to obey them."
-"Trusted systems in this sense are a privatized alternative to copyright law."
+
+---
+
+## For whom is the law
+
+"If the law did not
+protect authorship at all, there would be fewer authors."
 
 ---
 
 "Private law creates private rights to the extent that these private rights
 serve some collective good. If a private right is harmful to a collective good,
-then the state has no reason to create it." (p.180)
+then the state has no reason to create it."
 
 ---
 
-"If the law did not
-protect authorship at all, there would be fewer authors." (p.183)
-// cmp motivation Copyright Directive
+"An important point about copyright law is that, though designed in part
+to protect authors, the control it was designed to create was never to be per-
+fect."
 
----
-
-"Increasing intel-
-lectual property’s protection is not guaranteed to “promote the progress of
-science and useful arts”—indeed, often doing so will stifle it."
-
----
-
-"So copyright law strikes a balance between control and access. What about
-that balance when code is the law? Should we expect that any of the limits will
-remain? Should we expect code to mirror the limits that the law imposes?
-Fair use? Limited term? Would private code build these “bugs” into its protec-
-tions?" (p.185)
-"The point should be obvious: When intellectual property is protected by
-code, nothing requires that the same balance be struck. Nothing requires the
-owner to grant the right of fair use."
-
----
-
-"As I mentioned above, the DMCA contains an anti-circumvention provision.
-That part of the law forbids the circumvention of some technical protection
-measures; it forbids the development of tools to circumvent technical protec-
-tion as well. Most important, it forbids these circumventions regardless of
-the purpose of the circumvention. Thus, if the underlying use you would
-make of a copyrighted work—if you could get access to it—is a “fair use,” the
-DMCA still makes it an offense to circumvent technical protections to get
-access to it. Thus one part of the law of copyright grants “fair use,” while
-another part of copyright removes at least some fair use liberty where the
-fair use has been removed by technical means. 38" (p.186)
-
----
-
-But maybe this conflict is just temporary. Couldn’t the code be changed
-to protect fair use?
-The answer to that hopeful (and again, hopeful because my main point is
-about whether incentives to protect fair use exist) question is no, not directly.
-Fair use inherently requires a judgment about purpose, or intent. That judg-
-ment is beyond the ken of even the best computers." (p.187)
-//cmp article 13
-
----
-
-"As Stefik writes, trusted systems “differ
-from an ordinary contract in critical ways.”
-[I]n an ordinary contract, compliance is not automatic;"(p.188)
-
----
-
-"The balance struck by the law
-was the best that authors could get. But now, code gives authors a better deal.
-The question for legal policy is whether this better deal makes public sense."
-"Here we confront the first latent ambiguity within the law of copyright."
-
----
-
-Fair use:
-"Were these transactions left free because it
-was too costly to meter them? Or were these transactions left free because
-keeping them free was an important public value tied to copyright?" (p.189)
-
----
-
-right to read anonymously
-"we must ask whether the latent right
-to read anonymously, given to us before by imperfections in technologies,
-should be a legally protected right." (p.191)
-right to read anonymously
-"we must ask whether the latent right
-to read anonymously, given to us before by imperfections in technologies,
-should be a legally protected right." (p.191)
-
----
-
-"She argues that there is a right to resist, or
-“hack,” trusted systems to the extent that they infringe on traditional fair use.
-(Others have called this the “Cohen Theorem.”)"
+"the law was never designed to simply do the author’s bidding. It had pub-
+lic purposes as well as the author’s interest in mind."
 
 ---
 
@@ -305,11 +245,6 @@ should be a legally protected right." (p.191)
 created culture, this might not concern you much. If you’re trying to stop
 “piracy,” then a regime that says every use requires permission is a regime
 that gives you a fairly broad range of tools for stamping out piracy."
-"just now, in fact, protecting the distribution of profes-
-sionally created culture is not the only, or even, I suggest, the most
-important part of culture. And indeed, from a historical perspective, top-
-down, professionally produced culture is but a tiny part of what makes
-any culture sing."
 
 ---
 
@@ -318,18 +253,15 @@ teur doesn’t mean inferior or without talent, but instead culture created by
 people who produce not for the money, but for the love of what they do."
 
 "Importantly, too, this kind of cultural remix has historically been free of
-regulation." (p.194)
+regulation."
 
 ---
 
-"All this has now changed, and digital technologies are responsible. First,
-and most important, digital technologies have radically expanded the scope of
+"digital technologies have radically expanded the scope of
 this amateur culture. Now the clever remix of some political event or the
 latest song by your favorite band are not just something you can share with
 your friends. Digital technologies have made it simple to capture and share
 this creativity with the world."
-"“Peo-
-ple are waking from their consumerist coma,” one commentator describes. 62"
 
 ---
 
@@ -337,18 +269,51 @@ ple are waking from their consumerist coma,” one commentator describes. 62"
 regulation of amateur culture, that regulation creates new wealth for profes-
 sional culture. There’s a choice to be made about which form of culture we
 should protect."
-// EU Copyright Directive takes a clear stance on this one
+
+---
+
+## Fair use
+
+"Were these transactions left free because it
+was too costly to meter them? Or were these transactions left free because
+keeping them free was an important public value tied to copyright?"
+
+---
+
+"So copyright law strikes a balance between control and access."
+
+"The point should be obvious: When intellectual property is protected by
+code, nothing requires that the same balance be struck. Nothing requires the
+owner to grant the right of fair use."
+
+---
+
+"But maybe this conflict is just temporary. Couldn’t the code be changed
+to protect fair use?
+The answer to that hopeful (and again, hopeful because my main point is
+about whether incentives to protect fair use exist) question is no, not directly.
+Fair use inherently requires a judgment about purpose, or intent. That judg-
+ment is beyond the ken of even the best computers."
+
+---
+
+## right to read anonymously
+
+"we must ask whether the latent right
+to read anonymously, given to us before by imperfections in technologies,
+should be a legally protected right."
 
 ---
 
 "These three examples reveal a common pattern—one that will reach far
 beyond copyright. At one time we enjoyed a certain kind of liberty. But that
 liberty was not directly chosen; it was a liberty resulting from the high costs of
-control. 65" (p.196)
+control."
 
 ---
 
-Pending Choices:
+## Pending Choices
+
 - whether to allow intellectual property in effect to
 become completely propertized
 - whether to allow this regime to
@@ -360,7 +325,7 @@ to allow the expansion of intellectual property to drive out amateur culture
 
 # Thank you!
 
-These slides are under the [by-sa Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/).
+These slides are licensed under the [CC BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ![by](images/Cc-by_new_white.svg)
 ![sa](images/Cc-sa_white.svg)
